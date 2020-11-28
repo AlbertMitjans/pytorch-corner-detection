@@ -1,0 +1,8 @@
+torchvision
+pytorch
+pillow>=7.1.0
+matplotlib
+opencv
+pandas
+tensorflow>=2.4.0
+scikit-image
