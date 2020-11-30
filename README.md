@@ -16,16 +16,6 @@ $ git clone git@github.com:AlbertMitjans/pytorch-corner-detection.git
 $ cd pytorch-corner-detection/
 $ conda install --file requirements.txt
 ```
-**Download pretrained weights**
-```
-$ cd checkpoints/
-$ bash get_weights.sh
-```
-**Download dataset**
-```
-$ cd data/
-$ bash get_dataset.sh
-```  
 
 ## Run test
 
